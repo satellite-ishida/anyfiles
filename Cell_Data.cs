@@ -19,8 +19,6 @@ namespace Maptest
 
         }
 
-        //ああああああ
-
         private string country;
         /// <summary>
         /// 国名
